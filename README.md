@@ -3,7 +3,7 @@ Mini Project
 
 # Sprint 1
   Target Users: owners of restaurants<br/><br/>
-  User Stories:<br/> 
+  User Stories:<br/><br/> 
   I, the owner of restaurants, would like to know the current popular choice of food or drinks (what kinds of products should be released).<br/>
   I, the owner of restaurants, would like to know the comments (like, dislike, suggestions) on my store from customers.<br/>
   I, the owner of restaurants, would like to know which marketing strategies (promotions, advertisements, discounts, events) will have the most posistive reflect.<br/><br/>
